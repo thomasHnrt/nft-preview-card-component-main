@@ -77,7 +77,7 @@ hr {
 	inset: 0;
 	z-index: 1;
 
-	background: var(--colorSecondary-50) url("/images/icon-view.svg") no-repeat
+	background: var(--colorSecondary-50) url("../images/icon-view.svg") no-repeat
 		center;
 
 	opacity: 0;
